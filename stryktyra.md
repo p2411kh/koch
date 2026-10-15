@@ -1,11 +1,1 @@
-kochOS/
-├── Cargo.toml
-├── rust-toolchain.toml
-├── .cargo/
-│   └── config.toml
-├── src/
-│   ├── main.rs
-│   ├── vga.rs
-│   └── panic.rs
-├── x86_64-kochos.json    # target
-└── README.md
+kochOS/Cargo.toml, kochOS/rust-toolchain.toml, kochOS/.cargo/config.toml, kochOS/x86_64-kochos.json, kochOS/README.md, kochOS/src/main.rs, kochOS/src/vga.rs, kochOS/src/panic.rs
